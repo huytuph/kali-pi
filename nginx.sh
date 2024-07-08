@@ -7,7 +7,6 @@ while [ True ]
 do
         echo """NGINX STATUS:
         """
-        sudo systemctl status nginx | grep Loaded
         sudo systemctl status nginx | grep Active
         echo """
         
