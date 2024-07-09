@@ -1,7 +1,7 @@
 #!/bin/bash
 
-# change file access permissions & run script
-#chmod +x nginx.sh && ./nginx.sh
+# change file access permissions: chmod +x nginx.sh
+# run script: ./nginx.sh
 
 while [ True ]
 do
